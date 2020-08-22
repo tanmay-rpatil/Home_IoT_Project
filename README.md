@@ -1,6 +1,9 @@
 # Home_iot_project
 MQTT based IoT project with a web dashboard.
 
+## Screenshot 
+![alt text](https://github.com/tanmay-rpatil/Home_IoT_Project/ScreenShots/ss1.png "Dashboard Screenshot")
+
 ## Intro
 * The backend is written in python, using the Django framework. 
 * The front-end uses CSS and from Material Dashboard (Linked below), with ajax calls added by me.
